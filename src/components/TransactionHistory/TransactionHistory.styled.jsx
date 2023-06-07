@@ -1,9 +1,9 @@
 import styled from '@emotion/styled';
 
 export const TransactionTable = styled.table`
-justify-content: center;
-align-items: center;
-margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
   width: 300px;
   background-color: #fff;
   border-radius: 5px;
@@ -23,6 +23,6 @@ export const TransactionBody = styled.td`
   text-align: center;
   font-size: 12px;
   padding: 5px;
-background-color: #f2f2f2;
-color: #68757a;
+  background-color: #f2f2f2;
+  color: #68757a;
 `;
